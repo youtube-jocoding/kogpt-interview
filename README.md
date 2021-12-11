@@ -6,5 +6,10 @@
 pip install -r requirements.txt
 ```
 
+## 주피터 노트북 실행
+```shell
+jupyter notebook
+```
+
 ## References
 [1] KoGPT: KakaoBrain Korean(hangul) Generative Pre-trained Transformer, Ildoo Kim and Gunsoo Han and Jiyeon Ham and Woonhyuk Baek, https://github.com/kakaobrain/kogpt (2021)
